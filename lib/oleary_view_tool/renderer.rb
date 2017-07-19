@@ -1,0 +1,3 @@
+module OlearyViewTool
+  # Your code goes here...
+end
